@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Hello Lionel
-Plugin URI: http://wordpress.org/extend/plugins/hello-dolly/
+Plugin URI: https://github.com/kevinsmasters/hello-lionel
 Description: I got bored so I changed the lyrics in the Hello Dolly plugin and replaced them with words from Lionel Richie's Hello. When activated you will randomly see a lyric from <cite>Hello</cite> in the upper right of your admin screen on every page.
 Author: Kevin Masters
 Version: 0.5
